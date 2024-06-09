@@ -1,0 +1,35 @@
+/*Définit le début du contenu en haut à gauche de la page*/
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+#map {
+    height: 700px;
+    width: auto;
+}
+
+html {
+    scroll-behavior: smooth;
+} 
+
+#icon1, #icon2, #icon3 {
+    height: 50px;
+    width: auto;
+}
+
+.details {
+    height: 150px;
+    width: auto;
+}
+
+#d1 {
+    position: absolute;
+    margin-top: 100px;
+}
+
+#btn {
+    margin-top:30px!important;
+}
